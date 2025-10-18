@@ -1,0 +1,39 @@
+ /* .navbar{
+    
+    background: #faf9f9;
+    display: flex;
+    align-items: center;
+    
+    
+}
+ 
+
+ul  {
+    display: inline-flex;
+ align-items: center;
+
+}
+
+ 
+
+input::placeholder{
+ color: white; 
+ cursor: pointer;
+ 
+} 
+
+.link1{
+    
+    text-decoration: none;
+    color: #242424;
+    margin: 100px;
+    font-size: x-large; 
+     
+}
+
+.l1{
+    list-style:none;
+
+    
+} 
+ */
