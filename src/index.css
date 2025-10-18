@@ -90,7 +90,7 @@ nav a:hover{
 
 .login{
     background-color: black;
-    width:25%;
+    width:30%;
     height: 40vh;
     padding-left: 5px;
     padding-right: 10px;
@@ -106,7 +106,7 @@ nav a:hover{
 
 
 .Web{
-padding-left: 30px;
+padding-left: 10px;
 padding-top: 80px;
 font-size: x-large;
 }
@@ -172,6 +172,7 @@ nav a{
     color: white;
      text-decoration: underline chocolate;
     border: none;
+margin-left: 20px;
 
 
     
@@ -531,10 +532,4 @@ margin-top: 10px;
     background-color: black;
 }
 
-@media(max-width:480){
 
-
-.bitch{
-    flex-wrap: wrap;
-}
-}
